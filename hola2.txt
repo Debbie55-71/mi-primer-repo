@@ -1,2 +1,4 @@
 "con error"
 "locura total - nuevo contenido"  
+"cambios por nueva ramma"
+"Probar conflictos revertir cambios" 
